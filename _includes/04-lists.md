@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Favorite Sports
+  * Football
+  * Table Tennis
+  * Volley Ball
+* Other Hobbies
+  * Charity Support
