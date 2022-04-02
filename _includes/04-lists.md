@@ -4,3 +4,4 @@
   * Volley Ball
 * Other Hobbies
   * Charity Support
+  * Travelling
