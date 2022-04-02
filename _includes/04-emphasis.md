@@ -1,4 +1,4 @@
-I am a *Computer Programming* graduate. Building software solutions and maintaining computer systems are two of my passions.<br>
+I am a *Computer Programming* graduate 💖. Building software solutions and maintaining computer systems are two of my passions.<br>
 While in college **(UpSkilled)**, I created software solutions for my projects that gave me the opportunity to thrive in the art and become quite comfortable with **C#** language manipulations.
 Database design/maintenance *(My SQL & T-SQL)*, software management, unit testing and debugging, and network architecture are all relevant abilities I'll bring to the team.<br><br>
 As a **Full-Stack Developer** ✨, I've mastered essential **Front-end** technologies like *HTML5, CSS3, JavaScript*, and knowledge of third-party libraries like *jQuery, LESS, Angular and ReactJS*.<br>
