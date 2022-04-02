@@ -1,4 +1,5 @@
-* Favorite Sports
+* Favorite Activities
+  * Coding
   * Football
   * Table Tennis
   * Volley Ball
